@@ -83,9 +83,6 @@ int main()
     u1[0] = -(d1 + d2 * e_norm + d3 * de_norm) * sgn_y1; // (2.17)
     u2[0] = -(d1 + d2 * e_norm + d3 * de_norm) * sgn_y2;
 
-    printf("u1[0] = %f\n", u1[0]);
-    printf("u2[0] = %f\n", u2[0]);
-
     double Kp1[2][2] = {{80, 0}, {0, 90}};
     double Kp2[2][2] = {{50, 0}, {0, 50}};
     double Kv1[2][2] = {{80, 0}, {0, 80}};
