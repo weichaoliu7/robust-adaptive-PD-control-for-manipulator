@@ -1,2 +1,3 @@
 # robust-adaptive-PD-control-for-manipulator
- 
+The paper focuses on robust adaptive PD control of a two-joint robot Manipulator and its C implementation. Considering gravity compensation and perturbation, controller design when the upper certainty bound of the perturbation signal is known. Main reference is Liu Jinkun's "Robot Control System Design and Matlab Simulation" 4th Edition
+link: https://shi.buaa.edu.cn/liujinkun/zh_CN/jxzy/8049/list/index.htm
